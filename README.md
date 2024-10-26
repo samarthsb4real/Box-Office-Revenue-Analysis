@@ -15,3 +15,8 @@ To run this script, the following libraries are required:
 Install these using:
 ```bash
 pip install numpy pandas matplotlib scipy
+
+
+Once done with the Installation, run the script by using:
+```bash
+python main.py
