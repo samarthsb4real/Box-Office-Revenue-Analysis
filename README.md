@@ -12,6 +12,11 @@ To run this script, the following libraries are required:
 - `matplotlib`
 - `scipy`
 
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/movie-dataset-simulation.git
+```
+
 Install these using:
 ```bash
 pip install numpy pandas matplotlib scipy
